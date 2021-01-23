@@ -16,10 +16,10 @@ Where x = original alphabet, n = shift, 26 refers to the total number of alphabe
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/ceaserCipher.png" align="center">
 <br><br>
 
-For example, the alphabets shifted to 7: <br>
-Original: ABCDEFGHIJKLMNOPQRSTUVWXYZ <br>
-Encrypted: HIJKLMNOPQRSTUVWXYZABCDEFG <br>
-Shift: 7 <br>
+*For example, the alphabets shifted to 7:* <br>
+**Original**: ABCDEFGHIJKLMNOPQRSTUVWXYZ <br>
+**Encrypted**: HIJKLMNOPQRSTUVWXYZABCDEFG <br>
+**Shift**: 7 <br>
 
 # DS&A used for the alternate method
 
