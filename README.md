@@ -4,7 +4,7 @@ A simple Caesar Cipher encryptor.
 
 # How a Caesar Cipher works
 
-The basic formulae on which the Cipher works is:
+The basic formulae on which the Cipher works are:
 
 ### Encryption (Ex) = (x + n) % 26
 
